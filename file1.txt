@@ -1,2 +1,3 @@
 first file
 first line
+conflict 1
