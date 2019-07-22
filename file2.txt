@@ -1,3 +1,5 @@
 file second
 second line
+<<<<<<< HEAD
 conflict
+conflict raise
